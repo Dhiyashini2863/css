@@ -1,7 +1,8 @@
-body{}
+
 h1{
-    color:red;
+    color:#d44c4c;
     font-weight: bolder;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 h2{
     color:green;
@@ -9,6 +10,11 @@ h2{
 }
 p{
     color:darkmagenta;
+    
     font-weight: bolder;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 20px;
+}
+body{
+    background-color: aquamarine;
 }
